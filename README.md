@@ -1,5 +1,5 @@
 # Mission to Mars
-(https://github.com/Brooks2210/Mission-to-Mars/blob/main/mars.png)
+![mars.png](https://github.com/Brooks2210/Mission-to-Mars/blob/main/mars.png)
 ## Summary
 For this module we used Python and Splinter to scrape data from NASA and JPL websites, Beautiful Soup to parse the data, Mongo DB to store the sraped data add it to a Mongo database, and Flask & Bootstrap HTML to redisplay the data on a custom webpage. 
 
