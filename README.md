@@ -6,4 +6,4 @@ For this module we used Python and Splinter to scrape data from NASA and JPL web
 ## Resources
 - **Software**: Python 3.7, HTML, Jupyter Notebook, VSCode, MongoDB<br/>
 - **Files**: Mission_to_Mars_Challenge.ipynb, app.py, scraping.py, index.html<br/>
-- **Output**: Final_Webpage.html
+
